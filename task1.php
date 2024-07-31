@@ -18,7 +18,7 @@
         <input type="text"  name="model" required><br><br>
 
         <label for="speed">Enter Vehicle Speed in kmph:</label><br>
-        <input type="number"  name="speed" required><br><br>
+        <input type="number"  name="speed"><br><br>
 
         <button type="submit">Submit</button>      
       
