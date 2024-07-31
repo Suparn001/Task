@@ -20,9 +20,6 @@
         <label for="speed">Enter Vehicle Speed in kmph:</label><br>
         <input type="number"  name="speed" required><br><br>
 
-        <label for="height">Enter Vehicle Height in meters:</label><br>  
-        <input type="number" name="height" required><br><br>
-
         <button type="submit">Submit</button>      
       
     </form>
