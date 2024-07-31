@@ -35,5 +35,6 @@ else{
 
     $truck = new Vehicle("truck" ,"da", "civic");
     $truck->getinfo();
-    
+    $car = new Vehicle("car" ,"da", "civic",122);
+    $car->getinfo();
 ?>
